@@ -1,0 +1,10 @@
+.obsidian/workspace*
+.obsidian/hotkeys.json
+.obsidian/graph.json
+.trash/
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
