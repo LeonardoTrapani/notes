@@ -4,7 +4,9 @@
 
 $$\sum_{v \in ODD} d(v) = 2|E| - \sum_{v \in EVEN} d(v)$$
 
-Since the right side is even, $|ODD|$ must be even. □
+Since the right side is even, $|ODD|$ must be even. 
+
+_In simple terms_: Right side even because sum of even degrees, and another even number (2* something). So left side must be even too
 
 ---
 #### Sources:

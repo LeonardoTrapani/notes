@@ -1,5 +1,4 @@
-$d_G(v) =$ degree of vertex $v$ in $G$
-$= $ number of edges incident with $v$
+$d_G(v) =$ degree of vertex $v$ in $G$ $=$ number of edges incident with $v$
 
 $\delta(G) = \min_v d_G(v)$ (minimum degree)
 
