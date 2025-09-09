@@ -1,3 +1,5 @@
+#course
+
 Course covering fundamental concepts in Computer Science.
 
 ## Topics Covered
@@ -8,8 +10,4 @@ Course covering fundamental concepts in Computer Science.
 ## Course Materials
 - [[lecture_0.pdf]]
 - [[lecture_2_graphs_1.pdf]]
-- [[lacture_2_graphs_2.pdf]]
-
----
-#### Sources:
-Course materials in Resources/CS/
+- [[lecture_2_graphs_2.pdf]]
