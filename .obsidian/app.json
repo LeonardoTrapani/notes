@@ -4,5 +4,7 @@
   "spellcheck": true,
   "showLineNumber": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "Inbox"
+  "newFileFolderPath": "Inbox",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }
