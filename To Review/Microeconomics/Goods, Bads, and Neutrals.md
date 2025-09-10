@@ -1,60 +1,50 @@
-## Definitions
+# Goods, Bads, and Neutrals
 
-### Good
-A **good** is a commodity which **increases utility** with additional consumption.
-- [[Marginal Utility]] is positive: $MU > 0$
-- More of the good is always preferred to less
+## Overview
+Commodities can be classified based on how they affect consumer utility. This classification helps explain consumer behavior, market outcomes, and policy implications.
+
+## Types of Commodities by Utility Impact
+
+### [[Good (Economics)|Good]]
+A commodity which **increases utility** with additional consumption.
+- Mathematical condition: $\frac{\partial U}{\partial x} > 0$
 - Examples: food, entertainment, housing
 
-### Bad  
-A **bad** is a commodity which **decreases utility** with additional consumption.
-- Marginal utility is negative: $MU < 0$  
-- Less of the bad is preferred to more
+### [[Bad (Economics)|Bad]]  
+A commodity which **decreases utility** with additional consumption.
+- Mathematical condition: $\frac{\partial U}{\partial x} < 0$
 - Examples: pollution, noise, disease
 
-### Neutral
-A **neutral** is a commodity which **does not change utility** with additional consumption.
-- Marginal utility is zero: $MU = 0$
-- Consumer is indifferent to having more or less
+### [[Neutral (Economics)|Neutral]]
+A commodity which **does not change utility** with additional consumption.
+- Mathematical condition: $\frac{\partial U}{\partial x} = 0$
 - Examples: worthless objects, items beyond satiation point
 
-## Graphical Representation
-
-Consider water consumption as an example:
-- **Left region**: Water units are **goods** (increasing utility)
-- **Peak**: Optimal consumption level  
-- **Right region**: Water units are **bads** (decreasing utility)
-- **Around $x'$ units**: A little extra water is a **neutral** (flat utility curve)
-
-## Mathematical Implications
-
-### Utility Function Shape
-For a good that transitions from good to bad:
+## Utility Function Relationship
 $$\frac{\partial U}{\partial x} \begin{cases}
 > 0 & \text{when } x \text{ is a good} \\
 = 0 & \text{when } x \text{ is neutral} \\
 < 0 & \text{when } x \text{ is a bad}
 \end{cases}$$
 
-### Indifference Curve Implications
-- **Goods**: Indifference curves slope downward (negative MRS)
-- **Bads**: Indifference curves slope upward (positive MRS)  
-- **Neutrals**: Indifference curves are vertical (infinite MRS) or horizontal (zero MRS)
+## Indifference Curve Implications
+- **[[Good (Economics)|Goods]]**: Downward-sloping indifference curves
+- **[[Bad (Economics)|Bads]]**: Upward-sloping indifference curves  
+- **[[Neutral (Economics)|Neutrals]]**: Horizontal or vertical indifference curves
 
 ## Economic Applications
+This classification explains:
+- **Market existence**: Why markets for neutrals don't develop
+- **Pricing patterns**: Negative prices for bads, zero prices for neutrals
+- **Consumer behavior**: Avoidance of bads, indifference to neutrals
+- **Policy design**: Regulation of bads, taxes and subsidies
 
-Understanding goods, bads, and neutrals helps explain:
-- Why some markets don't exist (for neutrals)
-- Why people pay to avoid bads (pollution taxes)
-- Satiation points in consumption
-- Corner solutions in consumer optimization
-
-## Relationship to Preferences
-
-This classification connects to the [[Preference Axioms|monotonicity axiom]]:
-- When all commodities are goods, "more is better"
-- When some commodities are bads, preferences become more complex
-- Consumer choice involves trading off goods against bads
+## Relationship to Consumer Theory
+Connects to fundamental economic concepts:
+- **[[Monotonicity Axiom]]**: Applies only when all commodities are goods
+- **[[Marginal Utility]]**: Sign determines classification
+- **Consumer optimization**: Corner vs. interior solutions
+- **Welfare analysis**: Complete utility characterization
 
 ---
 #### Sources

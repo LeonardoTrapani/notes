@@ -14,14 +14,6 @@ Microeconomics studies how individuals and firms make decisions in markets with 
 - [[Interior and Corner Solutions]]
 - [[Demand Function Derivation]]
 - [[Comparative Statics Analysis]]
-
-## Learning Objectives
-Understanding where the demand function comes from through:
-1. **Economic principles** of choice-making
-2. **Scarcity concepts** and opportunity cost
-3. **Mathematical representation** of preferences
-4. **Constrained optimization** under resource limitations
-
 ## Chapter Coverage
 
 ### Consumer Choice Theory (Chapters 2-5)

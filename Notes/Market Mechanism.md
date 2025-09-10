@@ -1,5 +1,3 @@
-# Market Mechanism
-
 ## Definition
 The **market mechanism** is the system through which goods and services are allocated in market economies. It operates through the interaction of supply and demand forces.
 

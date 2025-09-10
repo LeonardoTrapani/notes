@@ -1,63 +1,46 @@
-## Ordinary Goods
+# Ordinary and Giffen Goods
 
-### Definition
-A good is called **ordinary** if the quantity demanded of it always increases as its own price decreases (and vice versa).
+## Overview
+Goods can be classified based on how quantity demanded responds to changes in the good's own price. This classification reveals important insights about consumer behavior and market dynamics.
 
-### Characteristics
-- **Downward-sloping** [[Direct Demand Function|demand curve]]
-- **Normal price-quantity relationship**: $\frac{\partial x_1^*}{\partial p_1} < 0$
-- **Most common** type of good in practice
+## Types of Goods by Price Response
 
-### Price Offer Curve
-For ordinary goods, the [[Price Offer Curve]] slopes downward, connecting optimal bundles that show decreasing $x_1^*$ as $p_1$ increases.
+### [[Ordinary Goods]]
+Goods where quantity demanded always decreases as price increases.
+- Mathematical condition: $\frac{\partial x_1^*}{\partial p_1} < 0$ for all prices
+- Exhibit normal downward-sloping demand curves
+- Most common type of good in practice
 
-## Giffen Goods
+### [[Giffen Goods]]
+Goods where quantity demanded increases as price increases (in some price ranges).
+- Mathematical condition: $\frac{\partial x_1^*}{\partial p_1} > 0$ for some prices
+- Exhibit upward-sloping segments in demand curves
+- Extremely rare theoretical curiosity
 
-### Definition
-If, for **some values** of its own price, the quantity demanded of a good **rises** as its own price **increases**, then the good is called a **Giffen good**.
+## Key Differences
+| Aspect | Ordinary Goods | Giffen Goods |
+|--------|----------------|--------------|
+| Demand curve slope | Always downward | Upward segments possible |
+| Price-quantity relationship | Always negative | Positive in some ranges |
+| Frequency | Very common | Extremely rare |
+| Economic intuition | Follows standard theory | Violates standard assumptions |
 
-### Characteristics
-- **Upward-sloping segments** in the [[Direct Demand Function|demand curve]]
-- **Abnormal price-quantity relationship**: $\frac{\partial x_1^*}{\partial p_1} > 0$ (for some price ranges)
-- **Theoretical curiosity** - extremely rare in practice
-
-### Price Offer Curve
-For Giffen goods, the [[Price Offer Curve]] can bend backward, creating regions where higher prices lead to higher quantities demanded.
-
-## Mathematical Distinction
-
-For a demand function $x_1^*(p_1, p_2, m)$:
-
-**Ordinary Good**: $\frac{\partial x_1^*}{\partial p_1} < 0$ for all $p_1$
-
-**Giffen Good**: $\frac{\partial x_1^*}{\partial p_1} > 0$ for some values of $p_1$
-
-## Graphical Comparison
+## Economic Mechanisms
 
 ### Ordinary Goods
-- Demand curve consistently slopes downward
-- Price offer curve moves left as price increases
-- Standard economic intuition applies
-
-### Giffen Goods  
-- Demand curve has **positively sloped portions**
-- Price offer curve can bend backward
-- Violates standard economic intuition
-
-## Economic Intuition
-
-### Ordinary Goods
-Higher prices reduce purchasing power and make the good less attractive relative to substitutes, leading to lower quantity demanded.
+- **Income and substitution effects** work in same direction
+- Higher prices → lower quantity demanded
+- Standard consumer theory applies
 
 ### Giffen Goods
-For inferior goods that comprise a large portion of the budget, higher prices can create such a strong **income effect** that it overwhelms the **substitution effect**, leading to increased demand.
+- **Income effect overwhelms substitution effect**
+- Requires inferior goods with large budget shares
+- **Limited substitutes** and **low-income consumers**
 
-## Relationship to Income Effects
-
-Giffen behavior typically occurs with:
-- **Inferior goods** (demand decreases as income increases)
-- Goods representing a **large budget share**
-- Limited **substitute availability**
+## Relationship to Income Classification
+- **Giffen goods** are always [[Inferior Goods]]
+- **Not all inferior goods** are Giffen goods
+- **Ordinary goods** can be either [[Normal Goods|normal]] or [[Inferior Goods|inferior]]
 
 ## Related Concepts
 

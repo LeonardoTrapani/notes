@@ -1,5 +1,3 @@
-# Budget Constraints
-
 ## Budget Set Definition
 The **budget set** identifies the set of all bundles that an individual can afford to buy (spending all or part of their income).
 
@@ -14,7 +12,7 @@ The **budget constraint** identifies the set of bundles that an individual can *
 
 $$\{(x_1, \ldots, x_n) \mid x_1 \geq 0, \ldots, x_n \geq 0 \text{ and } p_1x_1 + \ldots + p_nx_n = m\}$$
 
-The budget constraint is the **upper boundary** of the budget set.
+The budget constraint is the **[[Upper and Lower Bounds|upper boundary]]** of the budget set.
 
 ## Two-Commodity Case
 
@@ -49,6 +47,8 @@ The slope $-\frac{p_1}{p_2}$ measures the **[[Opportunity Cost]]** of good $x_1$
 
 ## The Numeraire
 In economics, the relevant concept for commodity prices is the **relative price** - the price of one commodity in terms of another commodity.
+
+TODO: study p. 26 in the book
 
 ## Non-Linear Budget Constraints
 When prices are not constant, budget constraints can be curved:

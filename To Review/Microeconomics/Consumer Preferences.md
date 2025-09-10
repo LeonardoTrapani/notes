@@ -16,15 +16,15 @@
 ## Regularity Axioms for Preferences
 
 ### Minimum Set of Axioms
-1. **[[Completeness Axiom]]**: "Always have an answer"
-2. **[[Reflexivity Axiom]]**: Any bundle is at least as good as itself  
-3. **[[Transitivity Axiom]]**: "Avoid contradictory answers"
+1. **[[Completeness Axiom]]**: For any bundles a and b, either a ≿ b, or b ≿ a, or a ∼ b
+2. **[[Reflexivity Axiom]]**: Any bundle is at least as good as itself (a ≿ a)
+3. **[[Transitivity Axiom]]**: If b ≿ a and c ≿ b, then c ≿ a
 
 ### Well-Behaved Preferences
 Additional axioms for tractable economic analysis:
 
-4. **[[Monotonicity Axiom]]**: "More is better"
-5. **[[Convexity Axiom]]**: "People prefer variety to extremes"
+4. **[[Monotonicity Axiom]]**: More is better - if one bundle has more of every good, it's preferred
+5. **[[Convexity Axiom]]**: People prefer variety to extremes - averages of equally preferred bundles are at least as good
 
 ## Properties of Well-Behaved Preferences
 When preferences satisfy all five axioms, they yield:
