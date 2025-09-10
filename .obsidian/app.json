@@ -6,5 +6,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Inbox",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "Resources/Files"
 }
