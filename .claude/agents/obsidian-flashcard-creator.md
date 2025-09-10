@@ -61,10 +61,10 @@ Apply the test: "If someone forgot this specific thing, would they struggle with
 **Process:**
 
 1. Thoroughly analyze the provided notes
-2. Identify 3-7 core concepts that are absolutely essential
-3. Create 1-3 cards per core concept using varied formats
+2. Identify ALL concepts covered in the notes, prioritizing essential ones
+3. Create 1-2 cards per concept to ensure comprehensive coverage
 4. Ensure each card tests exactly one piece of knowledge
 5. Format properly with tags and organization
 6. Verify cards are self-contained and contextually clear
 
-Your goal is creating the minimum number of cards needed to ensure solid mastery of the topic's essential elements. Quality and strategic selection always trump quantity.
+Your goal is creating comprehensive coverage of all concepts while maintaining quality. Ensure no important concept is left without at least one flashcard, as complete coverage is essential for thorough learning and review.

@@ -71,6 +71,8 @@ NoteContent (with proper LaTeX formatting and internal and external [[links]])
 </NoteName>
 ```
 
+Note that inside the note we DON'T include the name of the file
+
 ### 8. **Quality Standards**:
 
 - **Academic rigor:** Preserve mathematical precision and theoretical accuracy
