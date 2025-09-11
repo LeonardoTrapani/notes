@@ -1,39 +1,14 @@
-## Course Information
-- **Professors**: Prof. Elisa Borghi & Prof. Maristella Botticini
-- **Institution**: Università Bocconi
+#course
 
-## Course Overview
-Microeconomics studies how individuals and firms make decisions in markets with limited resources. This course covers the fundamental principles of consumer choice theory and market analysis.
+Course covering fundamental concepts in Microeconomics.
 
-### Key Topics
-- [[Market Mechanism]]
-- [[Budget Constraints]]
-- [[Consumer Preferences]]
-- [[Rational Choice Theory]]
-- [[Constrained Optimal Choice]]
-- [[Interior and Corner Solutions]]
-- [[Demand Function Derivation]]
-- [[Comparative Statics Analysis]]
-## Chapter Coverage
+## Topics Covered
 
-### Consumer Choice Theory (Chapters 2-5)
-- [[Consumer Preferences]] and [[Preference Axioms]]
-- [[Utility Functions]] and different functional forms
-- [[Budget Constraints]] and feasible consumption sets  
-- [[Constrained Optimal Choice]] and optimization theory
-- [[Interior and Corner Solutions]] analysis
-- [[Demand Function Derivation]] for various preference types
+### Budget Constraints and Consumer Choice
+- [[Microeconomics Chapters 2-3 Index]] - Comprehensive notes on budget theory and consumer preferences
 
-### Demand Analysis (Chapter 6)
-- [[Comparative Statics Analysis]] of demand functions
-- [[Price Offer Curve]] and [[Direct Demand Function]] derivation
-- [[Ordinary and Giffen Goods]] classification
-- [[Gross Substitutes and Complements]] relationships
-- [[Income Offer Curve]] and [[Engel Curve]] analysis
-- [[Normal and Inferior Goods]] income effects
-
----
-#### Sources
-[[MicroChapters 2 and 3.pdf]], [[MicroChapter5.pdf]], [[MicroChapter6.pdf]]
-#### Class
-#class
+## Course Materials
+- [[MicroChapters 2 and 3.pdf]]
+- [[MicroChapter4.pdf]]
+- [[MicroChapter5.pdf]]
+- [[MicroChapter6.pdf]]

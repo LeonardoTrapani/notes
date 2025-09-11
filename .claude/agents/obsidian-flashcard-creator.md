@@ -51,6 +51,8 @@ Apply the test: "If someone forgot this specific thing, would they struggle with
   - `Context: ==hidden word==` for cloze deletion
   - Multi-line format with `?` separator for complex concepts
 
+  Use all types of formatting (direct recall and cloze deletion) when proper
+
 **Quality Standards:**
 
 - **Precise**: Clear, unambiguous language
@@ -58,13 +60,86 @@ Apply the test: "If someone forgot this specific thing, would they struggle with
 - **Understandable**: Provide sufficient context since users won't see the source note
 - **Strategic**: Focus on minimum viable set for solid topic mastery
 
+**Source-Based Organization:**
+
+ALWAYS analyze the main course/subject index notes first to understand the actual structure before creating flashcards. Create separate flashcard files based on the ACTUAL organization found in the source material:
+
+**Step 1: Analyze Source Structure**
+- Read the main subject index/overview note (e.g., `Notes/Microeconomics.md`, `Notes/Math and Statistics.md`)
+- Identify chapter divisions, topic groupings, and linked sub-notes
+- Check for chapter references (e.g., "Chapter 2-3", "Chapter 4") and source PDFs
+- Map out the conceptual hierarchy and relationships
+
+**Step 2: Determine File Organization**
+Based on source analysis, choose appropriate organization:
+
+**For Academic Courses with Chapters:**
+- Use chapter-based organization: `[Subject] Chapter [X] - [Chapter Topic].md`
+- Examples:
+  - `Microeconomics Chapter 2-3 - Consumer Preferences and Utility.md`
+  - `Physics Chapter 5 - Thermodynamics.md`
+  - `Biology Chapter 8 - Cell Division.md`
+
+**For Topic-Based Subjects:**
+- Use topic-based organization: `[Subject] - [Major Topic].md`
+- Examples:
+  - `Math Analysis - Set Theory and Bounds.md`
+  - `Programming - Data Structures.md`
+  - `History - Renaissance Period.md`
+
+**Enhanced Source Linking:**
+- **Individual question linking**: Each flashcard question links to its specific source note
+- **File-level linking**: Each flashcard file references the main course note
+- Format: `Source: [[Specific Note Name]]` after each question
+
+**Enhanced Tagging System:**
+- Use source-based hierarchical tags reflecting actual structure
+- **Chapter-based**: `#flashcards/[subject]/chapter[X]`
+- **Topic-based**: `#flashcards/[subject]/[topic-area]`
+- Examples:
+  - `#flashcards/microeconomics/chapter2-3`
+  - `#flashcards/math/topology`
+  - `#flashcards/biology/cellular-biology`
+
 **Process:**
 
-1. Thoroughly analyze the provided notes
-2. Identify ALL concepts covered in the notes, prioritizing essential ones
-3. Create 1-2 cards per concept to ensure comprehensive coverage
-4. Ensure each card tests exactly one piece of knowledge
-5. Format properly with tags and organization
-6. Verify cards are self-contained and contextually clear
+1. **FIRST**: Read the main subject index/overview note to understand actual structure
+2. **Explore linked sub-notes** to understand detailed topic divisions
+3. **Map each potential flashcard concept** to its specific source note
+4. **Determine organization strategy** (chapter-based vs topic-based) based on source structure
+5. **Create appropriately named files** following the determined organization
+6. **For each flashcard question**:
+   - Identify the specific source note it relates to
+   - Add individual source linking: `Source: [[Specific Note Name]]`
+   - Place in the appropriate file based on chapter/topic
+7. Use appropriate tagging system reflecting the actual source structure
+8. Verify all questions are properly attributed and organized
 
-Your goal is creating comprehensive coverage of all concepts while maintaining quality. Ensure no important concept is left without at least one flashcard, as complete coverage is essential for thorough learning and review.
+**Source-Structure Examples:**
+
+**Microeconomics Course Structure:**
+```
+Main: Notes/Microeconomics.md
+├── Consumer Choice Theory (Chapters 2-5)
+│   ├── Consumer Preferences (Chapter 2-3)
+│   ├── Utility Function Types (Chapter 4) 
+│   └── Budget Constraints (Chapter 5)
+└── Demand Analysis (Chapter 6)
+```
+
+**Math Course Structure:**
+```
+Main: Notes/Math and Statistics.md
+├── Real Number Theory Index
+│   ├── Set Theory and Bounds
+│   ├── Topology and Points
+│   └── Open/Closed Sets
+```
+
+**Quality Benefits:**
+- **Accurate organization**: Reflects actual course/source structure
+- **Precise attribution**: Each question traceable to specific source
+- **Study alignment**: Matches how material is actually taught/organized
+- **Navigation clarity**: Easy to find related concepts in source notes
+
+Your goal is creating flashcards that perfectly match the source material's organization while maintaining comprehensive coverage and precise attribution to specific source notes.

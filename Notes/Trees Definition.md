@@ -18,6 +18,6 @@ Trees appear throughout computer science in data structures, spanning trees, and
 
 ---
 #### Sources:
-[[lecture_paths_walks.pdf]]
+[[lecture_2_graphs_2.pdf]]
 #### Lesson:
 [[Fundamentals of Computer Science]]
