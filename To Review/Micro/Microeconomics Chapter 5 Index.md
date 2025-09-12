@@ -4,12 +4,18 @@ Comprehensive overview of **Chapter 5: Choice** covering constrained optimal cho
 
 ## Core Concepts
 
-### Constrained Optimization
-- [[Constrained Optimal Choice Definition]] - Fundamental concept combining feasibility and optimality
-- [[Interior and Corner Solutions]] - Two types of optimal solutions and their conditions
+### Theoretical Foundation
+- [[Behavioral Postulate and Rational Choice]] - Fundamental assumptions of consumer choice theory
+- [[Constrained Optimal Choice Definition]] - Concept combining feasibility and optimality
+
+### Solution Types and Conditions
+- [[Interior and Corner Solutions]] - Two types of optimal solutions
+- [[Optimality Conditions for Interior Solutions]] - Tangency conditions and marginal utility equalization
+- [[Optimality Conditions for Corner Solutions]] - Inequality conditions for specialization
 
 ### Solution Methods
-- [[Deriving Demand Functions Overview]] - Mathematical foundation for demand function derivation
+- [[Mathematical Approach to Utility Maximization]] - Lagrangian method and system solving
+- [[Deriving Demand Functions Overview]] - Foundation for demand function derivation
 - [[Graphical Derivation of Demand Curves]] - Visual approach to understanding demand relationships
 
 ## Demand Functions by Preference Type
@@ -24,6 +30,13 @@ Comprehensive overview of **Chapter 5: Choice** covering constrained optimal cho
 
 ### Always Corner Solutions
 - [[Neutral Goods and Concave Preferences Demand]] - Complete specialization due to extreme preferences
+
+## Advanced Topics
+
+### Theoretical Insights
+- [[Monotonic Transformations and Demand Equivalence]] - Why different utility functions yield identical demands
+- [[Demand Curve Characteristics by Preference Type]] - Graphical properties and economic interpretation
+- [[Summary of Preference Types and Optimal Solutions]] - Comprehensive overview of all solution methods
 
 ## Key Mathematical Relationships
 

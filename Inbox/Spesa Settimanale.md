@@ -16,8 +16,6 @@
 
 24 uova
 
-bacon
-
 cereali proteici
 
 1/2 succo
@@ -40,3 +38,5 @@ Pane
 Coca Zero (4 bottiglie)
 
 1 litro latte
+
+marmellata

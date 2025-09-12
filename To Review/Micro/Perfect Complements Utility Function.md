@@ -29,7 +29,7 @@ Perfect complements have distinctive L-shaped indifference curves:
 - **Along vertical segments**: MRS = 0 (no willingness to trade $x_2$ for $x_1$)
 - **Along horizontal segments**: MRS = $-\infty$ (infinite willingness to trade $x_2$ for $x_1$)
 - **At the kink**: MRS is undefined (discontinuous)
-
+  
 ## Economic Interpretation
 
 ### Perfect Complementarity
